@@ -12,4 +12,32 @@ git log: show all commits in the current branch’s history
 git diff: diff of what is changed but not staged
 git stash: Save modified and staged changes
 git reset: unstage a file while retaining the changes in working directorygit
-git remote: List the remote connections you have to other repositories
+git remote: List the remote connections you have to other repositoriesgit fetch : Fetches changes from a remote repository without merging them.
+git rebase: Applies changes from one branch onto another by rewinding and replaying commits.
+git tag: Creates or lists tags (labels) for a specific commit or branch.
+git blame: Shows who made each change to a file and when.
+git cherry-pick: Applies a specific commit from one branch onto another.
+git revert: Reverts a commit by creating a new commit that undoes the changes made by the original commit.
+git submodule: Manages submodules, which are separate Git repositories that are included within a parent repository.
+git show: Displays the contents of a specific commit or object.
+git remote add: Adds a new remote repository to the local repository.
+git remote rm: Removes a remote repository from the local repository.
+git push --force: Forces a push to a remote repository, overwriting any changes that may have been made.
+git config: Sets or displays configuration options for Git.
+git clean: Deletes untracked files from the working directory.
+git log --graph: Displays a graphical representation of the commit history.
+git bisect: Helps to find the commit that introduced a bug by performing a binary search through the commit history.git branch -d: Deletes a specific branch.
+git branch -r: Lists remote branches for a specific repository.
+git checkout -b: Creates a new branch and switches to it.
+git fetch --prune: Removes any tracking references to remote branches that have been deleted on the remote repository.
+git log --oneline: Displays the commit history in a condensed format.
+git reflog: Displays a log of all references (e.g. branches, tags) that have been updated in the repository.
+git show-branch: Displays the branch and tag labels for each commit in the commit history.
+git submodule update: Updates the submodules of a parent repository to the latest commit of their respective branches.
+git stash apply: Applies the most recent stash to the working directory.
+git commit --amend: Modifies the most recent commit to include additional changes.
+git cherry: Shows the commits that have been made on one branch but not on another.
+git grep: Searches for a specific pattern in the contents of files in the repository.
+git log --author: Displays the commit history for a specific author.
+git rebase -i: Allows interactive rebase, which enables to edit, delete, squash or reorder commits in the history.
+git blame -L: Shows who made changes to a specific range of lines in a file and when.
