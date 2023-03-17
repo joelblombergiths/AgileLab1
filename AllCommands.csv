@@ -1,2 +1,3 @@
 git fetch : Fetches changes from a remote repository without merging them.
 git rebase: Applies changes from one branch onto another by rewinding and replaying commits.
+git tag: Creates or lists tags (labels) for a specific commit or branch.
