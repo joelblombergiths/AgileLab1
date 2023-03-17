@@ -3,3 +3,4 @@ git clone: retrieve an entire repository from a hosted location via URL
 git add: add a file as it looks now to your next commit (stage)
 git commit: commit your staged content as a new commit snapshot
 git push: Transmit local branch commits to the remote repository branch
+git pull: fetch and merge any commits from the tracking remote branch
