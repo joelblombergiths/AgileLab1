@@ -12,3 +12,4 @@ git log: show all commits in the current branch’s history
 git diff: diff of what is changed but not staged
 git stash: Save modified and staged changes
 git reset: unstage a file while retaining the changes in working directory
+git remote: List the remote connections you have to other repositories
