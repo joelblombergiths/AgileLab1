@@ -6,3 +6,4 @@ git push: Transmit local branch commits to the remote repository branch
 git pull: fetch and merge any commits from the tracking remote branch
 git branch: list your branches. a * will appear next to the currently active branch
 git checkout: switch to another branch and check it out into your working directory
+git merge: merge the specified branch’s history into the current one
