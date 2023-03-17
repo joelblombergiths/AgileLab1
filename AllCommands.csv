@@ -2,3 +2,4 @@ git fetch : Fetches changes from a remote repository without merging them.
 git rebase: Applies changes from one branch onto another by rewinding and replaying commits.
 git tag: Creates or lists tags (labels) for a specific commit or branch.
 git blame: Shows who made each change to a file and when.
+git cherry-pick: Applies a specific commit from one branch onto another.
