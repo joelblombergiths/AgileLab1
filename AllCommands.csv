@@ -7,3 +7,4 @@ git reflog: Displays a log of all references (e.g. branches, tags) that have bee
 git show-branch: Displays the branch and tag labels for each commit in the commit history.
 git submodule update: Updates the submodules of a parent repository to the latest commit of their respective branches.
 git stash apply: Applies the most recent stash to the working directory.
+git commit --amend: Modifies the most recent commit to include additional changes.
