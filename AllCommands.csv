@@ -8,3 +8,4 @@ git show-branch: Displays the branch and tag labels for each commit in the commi
 git submodule update: Updates the submodules of a parent repository to the latest commit of their respective branches.
 git stash apply: Applies the most recent stash to the working directory.
 git commit --amend: Modifies the most recent commit to include additional changes.
+git cherry: Shows the commits that have been made on one branch but not on another.
