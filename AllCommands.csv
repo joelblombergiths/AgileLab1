@@ -4,3 +4,4 @@ git tag: Creates or lists tags (labels) for a specific commit or branch.
 git blame: Shows who made each change to a file and when.
 git cherry-pick: Applies a specific commit from one branch onto another.
 git revert: Reverts a commit by creating a new commit that undoes the changes made by the original commit.
+git submodule: Manages submodules, which are separate Git repositories that are included within a parent repository.
