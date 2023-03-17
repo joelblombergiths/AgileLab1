@@ -7,3 +7,4 @@ git revert: Reverts a commit by creating a new commit that undoes the changes ma
 git submodule: Manages submodules, which are separate Git repositories that are included within a parent repository.
 git show: Displays the contents of a specific commit or object.
 git remote add: Adds a new remote repository to the local repository.
+git remote rm: Removes a remote repository from the local repository.
