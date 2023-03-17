@@ -12,3 +12,4 @@ git cherry: Shows the commits that have been made on one branch but not on anoth
 git grep: Searches for a specific pattern in the contents of files in the repository.
 git log --author: Displays the commit history for a specific author.
 git rebase -i: Allows interactive rebase, which enables to edit, delete, squash or reorder commits in the history.
+git blame -L: Shows who made changes to a specific range of lines in a file and when.
