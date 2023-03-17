@@ -5,3 +5,4 @@ git fetch --prune: Removes any tracking references to remote branches that have 
 git log --oneline: Displays the commit history in a condensed format.
 git reflog: Displays a log of all references (e.g. branches, tags) that have been updated in the repository.
 git show-branch: Displays the branch and tag labels for each commit in the commit history.
+git submodule update: Updates the submodules of a parent repository to the latest commit of their respective branches.
