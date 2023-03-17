@@ -2,3 +2,4 @@ git branch -d: Deletes a specific branch.
 git branch -r: Lists remote branches for a specific repository.
 git checkout -b: Creates a new branch and switches to it.
 git fetch --prune: Removes any tracking references to remote branches that have been deleted on the remote repository.
+git log --oneline: Displays the commit history in a condensed format.
