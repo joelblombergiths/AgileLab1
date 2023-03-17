@@ -10,3 +10,4 @@ git stash apply: Applies the most recent stash to the working directory.
 git commit --amend: Modifies the most recent commit to include additional changes.
 git cherry: Shows the commits that have been made on one branch but not on another.
 git grep: Searches for a specific pattern in the contents of files in the repository.
+git log --author: Displays the commit history for a specific author.
