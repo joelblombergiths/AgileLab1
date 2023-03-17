@@ -11,3 +11,4 @@ git remote rm: Removes a remote repository from the local repository.
 git push --force: Forces a push to a remote repository, overwriting any changes that may have been made.
 git config: Sets or displays configuration options for Git.
 git clean: Deletes untracked files from the working directory.
+git log --graph: Displays a graphical representation of the commit history.
