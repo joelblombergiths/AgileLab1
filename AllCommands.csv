@@ -12,3 +12,4 @@ git push --force: Forces a push to a remote repository, overwriting any changes 
 git config: Sets or displays configuration options for Git.
 git clean: Deletes untracked files from the working directory.
 git log --graph: Displays a graphical representation of the commit history.
+git bisect: Helps to find the commit that introduced a bug by performing a binary search through the commit history.
