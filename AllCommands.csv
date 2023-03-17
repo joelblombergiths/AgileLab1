@@ -9,3 +9,4 @@ git checkout: switch to another branch and check it out into your working direct
 git merge: merge the specified branch’s history into the current one
 git status: show modified files in working directory, staged for your next commit
 git log: show all commits in the current branch’s history
+git diff: diff of what is changed but not staged
