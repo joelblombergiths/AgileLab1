@@ -1,2 +1,3 @@
 git branch -d: Deletes a specific branch.
 git branch -r: Lists remote branches for a specific repository.
+git checkout -b: Creates a new branch and switches to it.
