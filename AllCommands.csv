@@ -1,3 +1,4 @@
 git init: initializes an existing directory as a Git repository
 git clone: retrieve an entire repository from a hosted location via URL
 git add: add a file as it looks now to your next commit (stage)
+git commit: commit your staged content as a new commit snapshot
